@@ -1,0 +1,226 @@
+,Instrument,Organization Name,TSE33 Subsector name
+0,2802.T,Ajinomoto Co Inc,Foods
+1,9202.T,ANA Holdings Inc,Air Transportation
+2,6770.T,Alps Alpine Co Ltd,Electric Appliances
+3,6113.T,Amada Co Ltd,Machinery
+4,2502.T,Asahi Group Holdings Ltd,Foods
+5,3407.T,Asahi Kasei Corp,Chemicals
+6,5201.T,AGC Inc,Glass & Ceramics Products
+7,5108.T,Bridgestone Corp,Rubber Products
+8,7751.T,Canon Inc,Electric Appliances
+9,6952.T,Casio Computer Co Ltd,Electric Appliances
+10,9022.T,Central Japan Railway Co,Land Transportation
+11,8331.T,Chiba Bank Ltd,Banks
+12,9502.T,Chubu Electric Power Co Inc,Electric Power & Gas
+13,4519.T,Chugai Pharmaceutical Co Ltd,Pharmaceutical
+14,7762.T,Citizen Watch Co Ltd,Precision Instruments
+15,9433.T,KDDI Corp,Information & Communication
+16,6367.T,Daikin Industries Ltd,Machinery
+17,4631.T,DIC Corp,Chemicals
+18,4506.T,Sumitomo Dainippon Pharma Co Ltd,Pharmaceutical
+19,7912.T,Dai Nippon Printing Co Ltd,Other Products
+20,7735.T,Screen Holdings Co Ltd,Electric Appliances
+21,1925.T,Daiwa House Industry Co Ltd,Construction
+22,8601.T,Daiwa Securities Group Inc,Securities & Commodity Futures
+23,5714.T,DOWA Holdings Co Ltd,Nonferrous Metals
+24,9020.T,East Japan Railway Co,Land Transportation
+25,6361.T,Ebara Corp,Machinery
+26,4523.T,Eisai Co Ltd,Pharmaceutical
+27,4061.T,Denka Co Ltd,Chemicals
+28,9983.T,Fast Retailing Co Ltd,Retail Trade
+29,6504.T,Fuji Electric Co Ltd,Electric Appliances
+30,7270.T,Subaru Corp,Transportation Equipment
+31,4901.T,Fujifilm Holdings Corp,Chemicals
+32,5803.T,Fujikura Ltd,Nonferrous Metals
+33,6954.T,Fanuc Corp,Electric Appliances
+34,6702.T,Fujitsu Ltd,Electric Appliances
+35,5801.T,Furukawa Electric Co Ltd,Nonferrous Metals
+36,1808.T,Haseko Corp,Construction
+37,7205.T,Hino Motors Ltd,Transportation Equipment
+38,6501.T,Hitachi Ltd,Electric Appliances
+39,7004.T,Hitachi Zosen Corp,Machinery
+40,6305.T,Hitachi Construction Machinery Co Ltd,Machinery
+41,7267.T,Honda Motor Co Ltd,Transportation Equipment
+42,7013.T,IHI Corp,Machinery
+43,7202.T,Isuzu Motors Ltd,Transportation Equipment
+44,8001.T,Itochu Corp,Wholesale Trade
+45,5631.T,Japan Steel Works Ltd,Machinery
+46,1963.T,JGC Holdings Corp,Construction
+47,2914.T,Japan Tobacco Inc,Foods
+48,8267.T,Aeon Co Ltd,Retail Trade
+49,1812.T,Kajima Corp,Construction
+50,9503.T,Kansai Electric Power Co Inc,Electric Power & Gas
+51,4452.T,Kao Corp,Chemicals
+52,7012.T,Kawasaki Heavy Industries Ltd,Transportation Equipment
+53,9107.T,Kawasaki Kisen Kaisha Ltd,Marine Transportation
+54,9008.T,Keio Corp,Land Transportation
+55,9009.T,Keisei Electric Railway Co Ltd,Land Transportation
+56,2801.T,Kikkoman Corp,Foods
+57,6861.T,Keyence Corp,Electric Appliances
+58,2503.T,Kirin Holdings Co Ltd,Foods
+59,5406.T,Kobe Steel Ltd,Iron & Steel
+60,6301.T,Komatsu Ltd,Machinery
+61,9766.T,Konami Holdings Corp,Services
+62,4902.T,Konica Minolta Inc,Electric Appliances
+63,6473.T,Jtekt Corp,Machinery
+64,6326.T,Kubota Corp,Machinery
+65,3405.T,Kuraray Co Ltd,Chemicals
+66,6971.T,Kyocera Corp,Electric Appliances
+67,4151.T,Kyowa Kirin Co Ltd,Pharmaceutical
+68,8002.T,Marubeni Corp,Wholesale Trade
+69,8252.T,Marui Group Co Ltd,Retail Trade
+70,6752.T,Panasonic Corp,Electric Appliances
+71,8253.T,Credit Saison Co Ltd,Other Financing Business
+72,8802.T,Mitsubishi Estate Co Ltd,Real Estate
+73,8058.T,Mitsubishi Corp,Wholesale Trade
+74,9301.T,Mitsubishi Logistics Corp,Warehousing & Harbor Transportation Services
+75,6503.T,Mitsubishi Electric Corp,Electric Appliances
+76,7011.T,Mitsubishi Heavy Industries Ltd,Machinery
+77,5711.T,Mitsubishi Materials Corp,Nonferrous Metals
+78,8031.T,Mitsui & Co Ltd,Wholesale Trade
+79,5706.T,Mitsui Mining and Smelting Co Ltd,Nonferrous Metals
+80,4183.T,Mitsui Chemicals Inc,Chemicals
+81,7003.T,Mitsui E&S Holdings Co Ltd,Transportation Equipment
+82,9104.T,Mitsui OSK Lines Ltd,Marine Transportation
+83,8801.T,Mitsui Fudosan Co Ltd,Real Estate
+84,7211.T,Mitsubishi Motors Corp,Transportation Equipment
+85,6981.T,Murata Manufacturing Co Ltd,Electric Appliances
+86,5333.T,NGK Insulators Ltd,Glass & Ceramics Products
+87,7974.T,Nintendo Co Ltd,Other Products
+88,6902.T,Denso Corp,Transportation Equipment
+89,6701.T,NEC Corp,Electric Appliances
+90,2282.T,NH Foods Ltd,Foods
+91,2871.T,Nichirei Corp,Foods
+92,1332.T,Nippon Suisan Kaisha Ltd,"Fishery, Agriculture & Forestry"
+93,2002.T,Nisshin Seifun Group Inc,Foods
+94,9432.T,Nippon Telegraph and Telephone Corp,Information & Communication
+95,5202.T,Nippon Sheet Glass Co Ltd,Glass & Ceramics Products
+96,6471.T,NSK Ltd,Machinery
+97,4021.T,Nissan Chemical Corp,Chemicals
+98,6988.T,Nitto Denko Corp,Chemicals
+99,9062.T,Nippon Express Co Ltd,Land Transportation
+100,7731.T,Nikon Corp,Precision Instruments
+101,7951.T,Yamaha Corp,Other Products
+102,6479.T,Minebea Mitsumi Inc,Electric Appliances
+103,5401.T,Nippon Steel Corp,Iron & Steel
+104,5214.T,Nippon Electric Glass Co Ltd,Glass & Ceramics Products
+105,7201.T,Nissan Motor Co Ltd,Transportation Equipment
+106,8604.T,Nomura Holdings Inc,Securities & Commodity Futures
+107,9101.T,Nippon Yusen KK,Marine Transportation
+108,9613.T,NTT Data Corp,Services
+109,6472.T,NTN Corp,Machinery
+110,9007.T,Odakyu Electric Railway Co Ltd,Land Transportation
+111,1802.T,Obayashi Corp,Construction
+112,6703.T,Oki Electric Industry Co Ltd,Electric Appliances
+113,3861.T,Oji Holdings Corp,Pulp & Paper
+114,6103.T,Okuma Corp,Machinery
+115,7733.T,Olympus Corp,Precision Instruments
+116,6645.T,Omron Corp,Electric Appliances
+117,5233.T,Taiheiyo Cement Corp,Glass & Ceramics Products
+118,9532.T,Osaka Gas Co Ltd,Electric Power & Gas
+119,5541.T,Pacific Metals Co Ltd,Iron & Steel
+120,7752.T,Ricoh Co Ltd,Electric Appliances
+121,9984.T,SoftBank Group Corp,Information & Communication
+122,2501.T,Sapporo Holdings Ltd,Foods
+123,9735.T,Secom Co Ltd,Services
+124,1928.T,Sekisui House Ltd,Construction
+125,6753.T,Sharp Corp,Electric Appliances
+126,1803.T,Shimizu Corp,Construction
+127,4063.T,Shin-Etsu Chemical Co Ltd,Chemicals
+128,4507.T,Shionogi & Co Ltd,Pharmaceutical
+129,4911.T,Shiseido Co Ltd,Chemicals
+130,8355.T,Shizuoka Bank Ltd,Banks
+131,4004.T,Showa Denko KK,Chemicals
+132,6758.T,Sony Group Corp,Electric Appliances
+133,5232.T,Sumitomo Osaka Cement Co Ltd,Glass & Ceramics Products
+134,4005.T,Sumitomo Chemical Co Ltd,Chemicals
+135,5802.T,Sumitomo Electric Industries Ltd,Nonferrous Metals
+136,6302.T,Sumitomo Heavy Industries Ltd,Machinery
+137,5713.T,Sumitomo Metal Mining Co Ltd,Nonferrous Metals
+138,8830.T,Sumitomo Realty & Development Co Ltd,Real Estate
+139,8053.T,Sumitomo Corp,Wholesale Trade
+140,7269.T,Suzuki Motor Corp,Transportation Equipment
+141,6762.T,TDK Corp,Electric Appliances
+142,1801.T,Taisei Corp,Construction
+143,8725.T,MS&AD Insurance Group Holdings Inc,Insurance
+144,2531.T,Takara Holdings Inc,Foods
+145,8233.T,Takashimaya Co Ltd,Retail Trade
+146,4502.T,Takeda Pharmaceutical Co Ltd,Pharmaceutical
+147,6857.T,Advantest Corp,Electric Appliances
+148,6976.T,Taiyo Yuden Co Ltd,Electric Appliances
+149,3401.T,Teijin Ltd,Textiles & Apparels
+150,4543.T,Terumo Corp,Precision Instruments
+151,5301.T,Tokai Carbon Co Ltd,Glass & Ceramics Products
+152,9001.T,Tobu Railway Co Ltd,Land Transportation
+153,9602.T,Toho Co Ltd (Tokyo),Services
+154,9501.T,Tokyo Electric Power Company Holdings Inc,Electric Power & Gas
+155,8804.T,Tokyo Tatemono Co Ltd,Real Estate
+156,9531.T,Tokyo Gas Co Ltd,Electric Power & Gas
+157,5707.T,Toho Zinc Co Ltd,Nonferrous Metals
+158,8035.T,Tokyo Electron Ltd,Electric Appliances
+159,4043.T,Tokuyama Corp,Chemicals
+160,9005.T,Tokyu Corp,Land Transportation
+161,7911.T,Toppan Inc,Other Products
+162,3402.T,Toray Industries Inc,Textiles & Apparels
+163,5332.T,TOTO Ltd,Glass & Ceramics Products
+164,4042.T,Tosoh Corp,Chemicals
+165,7261.T,Mazda Motor Corp,Transportation Equipment
+166,3101.T,Toyobo Co Ltd,Textiles & Apparels
+167,8015.T,Toyota Tsusho Corp,Wholesale Trade
+168,7203.T,Toyota Motor Corp,Transportation Equipment
+169,4208.T,Ube Industries Ltd,Chemicals
+170,3103.T,Unitika Ltd,Textiles & Apparels
+171,9021.T,West Japan Railway Co,Land Transportation
+172,7272.T,Yamaha Motor Co Ltd,Transportation Equipment
+173,4503.T,Astellas Pharma Inc,Pharmaceutical
+174,9064.T,Yamato Holdings Co Ltd,Land Transportation
+175,6506.T,Yaskawa Electric Corp,Electric Appliances
+176,6841.T,Yokogawa Electric Corp,Electric Appliances
+177,5101.T,Yokohama Rubber Co Ltd,Rubber Products
+178,4704.T,Trend Micro Inc,Services
+179,4689.T,Z Holdings Corp,Services
+180,4755.T,Rakuten Group Inc,Services
+181,4751.T,CyberAgent Inc,Services
+182,8306.T,Mitsubishi UFJ Financial Group Inc,Banks
+183,8628.T,Matsui Securities Co Ltd,Securities & Commodity Futures
+184,4324.T,Dentsu Group Inc,Services
+185,8308.T,Resona Holdings Inc,Banks
+186,8309.T,Sumitomo Mitsui Trust Holdings Inc,Banks
+187,8766.T,Tokio Marine Holdings Inc,Insurance
+188,5411.T,JFE Holdings Inc,Iron & Steel
+189,8316.T,Sumitomo Mitsui Financial Group Inc,Banks
+190,8411.T,Mizuho Financial Group Inc,Banks
+191,2768.T,Sojitz Corp,Wholesale Trade
+192,6724.T,Seiko Epson Corp,Electric Appliances
+193,1721.T,Comsys Holdings Corp,Construction
+194,8303.T,Shinsei Bank Ltd,Banks
+195,8697.T,Japan Exchange Group Inc,Other Financing Business
+196,6674.T,GS Yuasa Corp,Electric Appliances
+197,8795.T,T&D Holdings Inc,Insurance
+198,2413.T,M3 Inc,Services
+199,2432.T,DeNA Co Ltd,Services
+200,3382.T,Seven & i Holdings Co Ltd,Retail Trade
+201,4568.T,Daiichi Sankyo Co Ltd,Pharmaceutical
+202,7832.T,Bandai Namco Holdings Inc,Other Products
+203,4188.T,Mitsubishi Chemical Holdings Corp,Chemicals
+204,3436.T,Sumco Corp,Metal Products
+205,1605.T,Inpex Corp,Mining
+206,5019.T,Idemitsu Kosan Co Ltd,Oil & Coal Products
+207,8304.T,Aozora Bank Ltd,Banks
+208,8354.T,Fukuoka Financial Group Inc,Banks
+209,3086.T,J.Front Retailing Co Ltd,Retail Trade
+210,3099.T,Isetan Mitsukoshi Holdings Ltd,Retail Trade
+211,2269.T,Meiji Holdings Co Ltd,Foods
+212,8750.T,Dai-ichi Life Holdings Inc,Insurance
+213,5020.T,ENEOS Holdings Inc,Oil & Coal Products
+214,8630.T,Sompo Holdings Inc,Insurance
+215,4578.T,Otsuka Holdings Co Ltd,Pharmaceutical
+216,3659.T,Nexon Co Ltd,Information & Communication
+217,5703.T,Nippon Light Metal Holdings Co Ltd,Nonferrous Metals
+218,3863.T,Nippon Paper Industries Co Ltd,Pulp & Paper
+219,3289.T,Tokyu Fudosan Holdings Corp,Real Estate
+220,6178.T,Japan Post Holdings Co Ltd,Services
+221,1333.T,Maruha Nichiro Corp,"Fishery, Agriculture & Forestry"
+222,6098.T,Recruit Holdings Co Ltd,Services
+223,7186.T,Concordia Financial Group Ltd,Banks
+224,9434.T,SoftBank Corp,Information & Communication

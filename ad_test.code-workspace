@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance",
+		"python.condaPath": "/home/sullija/anaconda3/bin/conda",
+		"python.terminal.activateEnvironment": true,
+		"code-runner.executorMap": {"python":"/home/sullija/anaconda3/envs/PyOD/bin/python -u"},
+		"code-runner.saveFileBeforeRun": true,
+		"code-runner.runInTerminal": true,
+		"files.watcherExclude": {
+			"**/target": true
+		}
+	}
+}
